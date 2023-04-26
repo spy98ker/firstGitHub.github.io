@@ -1,0 +1,10 @@
+#my-name {
+    font-size: 24px;
+    cursor: pointer;
+    transition: color 0.5s;
+  }
+  
+  #my-name:hover {
+    color: blue;
+  }
+  
